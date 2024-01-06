@@ -1,106 +1,106 @@
 ## Programming fundamental concepts
 
-- Syntax and concepts
-  - value
-  - identifier
-  - variable
-  - constant
-  - scalar
-  - literal
-  - expression
-  - heap
-  - function
-  - procedure
-  - method
-  - class
-  - prototype
-  - event
-  - type
-  - primitive types
-  - reference types
-  - flag
-  - lexical scope
-  - code block
-  - conditions
-  - loops
-  - assignment
-  - regular expression
-  - interface
-  - contract
-  - module
-  - call stack
-- Functions
-  - signature
-  - argument
-  - parameter
-  - pure function
-  - lambda expression
-  - side effects
-  - closure
-  - partial application
-  - curry
-  - higher order
-  - recursion
-  - callback
-  - listener
-  - compose
-  - pipe
-  - memoize
-  - wrapper
-  - functor
-  - monad
-  - monoid
-  - generator
-  - coroutine
-- Data structures
-  - array
-  - structure
-  - record
-  - enum
-  - instance
-  - object
-  - class
-  - collection
-  - set
-  - hash table
-  - linked list
-  - doubly list
-  - unrolled list
-  - circular list
-  - queue
-  - stack
-  - deque
-  - tree
-  - graph
-  - iterator
-  - mutable state
-  - immutable state
-  - serialization
-  - string parsing
-- Process & style
-  - compiler
-  - transpiler
-  - linter
-  - polyfill
-  - debugger
-  - garbage collection
-  - refactoring
-  - code review
-  - antipatterns
-  - paradigm
-  - algorithm
-  - magic numbers
-  - hardcode
-  - complexity
-  - decomposition
-  - spaghetti
-  - silver bullet
-  - not invented here
-  - dead code
-  - unreachable code
-  - duplicate code
-  - exception
-  - return early
-  - unittest
-  - git
-  - github
+- Syntax and concepts:
+  - value: 🙋 explained
+  - identifier: 🙋 explained
+  - variable: 🙋 explained
+  - constant: 🙋 explained
+  - scalar: 👂 heard 
+  - literal: 🙋 explained
+  - expression: 🙋 explained
+  - heap: 👂 heard
+  - function: 🙋 explained
+  - procedure: 🙋 explained
+  - method: 🙋 explained
+  - class: 🙋 explained
+  - prototype: 🙋 explained
+  - event: 🙋 explained
+  - type: 🙋 explained
+  - primitive types: 🙋 explained
+  - reference types: 🙋 explained
+  - flag: 🙋 explained
+  - lexical scope: 🙋 explained
+  - code block: 🙋 explained
+  - conditions: 🙋 explained
+  - loops: 🙋 explained
+  - assignment: 🙋 explained
+  - regular expression: 🎓 known
+  - interface: 👂 heard
+  - contract: 👂 heard
+  - module: 🎓 known
+  - call stack: 🎓 known
+- Functions:
+  - signature: 🙋 explained
+  - argument: 🙋 explained
+  - parameter: 🙋 explained
+  - pure function: 🙋 explained
+  - lambda expression: 🙋 explained
+  - side effects: 🙋 explained
+  - closure: 🎓 known
+  - partial application: 👂 heard
+  - curry: 🎓 known
+  - higher order: 🙋 explained
+  - recursion: 🖐️ used
+  - callback: 🙋 explained
+  - listener: 🙋 explained
+  - compose: 🎓 known
+  - pipe: 🙋 explained
+  - memoize: 🙋 explained
+  - wrapper: 🙋 explained
+  - functor: 🎓 known
+  - monad: 
+  - monoid: 
+  - generator: 🎓 known
+  - coroutine: 
+- Data structures:
+  - array: 🙋 explained
+  - structure: 🙋 explained
+  - record: 🙋 explained
+  - enum: 👂 heard
+  - instance: 🙋 explained
+  - object: 🙋 explained
+  - class: 🙋 explained
+  - collection: 🙋 explained
+  - set: 🎓 known
+  - hash table: 🎓 known
+  - linked list: 🙋 explained
+  - doubly list: 🙋 explained
+  - unrolled list: 👂 heard
+  - circular list: 👂 heard
+  - queue: 🎓 known
+  - stack: 🎓 known
+  - deque: 🎓 known
+  - tree: 🎓 known
+  - graph: 🎓 known
+  - iterator: 🎓 known
+  - mutable state: 🎓 known
+  - immutable state: 🎓 known
+  - serialization: 🙋 explained
+  - string parsing: 🎓 known
+- Process & style:
+  - compiler: 🙋 explained
+  - transpiler: 👂 heard
+  - linter: 🎓 known
+  - polyfill: 👂 heard
+  - debugger: 🎓 known
+  - garbage collection: 🎓 known
+  - refactoring: 🙋 explained
+  - code review: 🙋 explained
+  - antipatterns: 🙋 explained
+  - paradigm: 🙋 explained
+  - algorithm: 🎓 known
+  - magic numbers: 🙋 explained
+  - hardcode: 🙋 explained
+  - complexity: 🙋 explained
+  - decomposition: 🙋 explained
+  - spaghetti: 🙋 explained
+  - silver bullet: 🙋 explained
+  - not invented here: 🙋 explained
+  - dead code: 🙋 explained
+  - unreachable code: 🙋 explained
+  - duplicate code: 🙋 explained
+  - exception: 🎓 known
+  - return early:  🎓 known
+  - unittest: 🎓 known
+  - git: 🙋 explained
+  - github: 🙋 explained
