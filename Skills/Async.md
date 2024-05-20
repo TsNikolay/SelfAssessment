@@ -21,7 +21,7 @@
   - Actor Model:
   - Thread:
   - Process: 🎓 known
-- Async contracts
+  - Async contracts
   - Callbacks: 🖐️ used
   - Callback-last-error-first: 🎓 known
   - Thenable: 🎓 known
@@ -40,13 +40,13 @@
   - Chain of responsibility: 🎓 known
   - Middleware: 🖐️ used
   - Locks: 👂 heard
-- Async adapters and utils
+  - Async adapters and utils
   - callbackify: 👂 heard
   - promisify: 👂 heard
   - asyncify: 👂 heard
   - callbacks compose:  🎓 known
   - async compose: 🎓 known
-- Async abstractions interfaces
+  - Async abstractions interfaces
   - EventEmitter: 🖐️ used
   - Observable/Observer: 🎓 known
   - Readable: 🙋 explained

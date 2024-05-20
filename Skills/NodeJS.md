@@ -1,6 +1,7 @@
 ## Node.js and backend
 
 - Internals and concepts
+
   - Strong and weak sides of node.js: 🙋 explained
   - Stateful and stateless servers: 🙋 explained
   - Nonblocking I/O and slocking code: 🙋 explained
