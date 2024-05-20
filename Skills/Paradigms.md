@@ -1,91 +1,91 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
-  - Structured programming
-  - Non-structured programming
-  - Functional programming
-  - Prototype-based programming
-  - Object-oriented programming
-  - Object-based programming
-  - Generic programming
-  - Concurrent computing
-  - Asynchronous programming
-  - Parallel programming
-  - Reactive programming
-  - Functional-reactive (FRP)
-  - Automata-based programming
-  - Domain-specific languages
-  - Multi-paradigm programming
-  - Metaprogramming
-  - Actor model
-  - Lambda calculus
-  - Black box
-  - Information hiding
-  - Aspect-oriented programming
-  - Anemic domain model
-  - Class composition
+  - Procedural programming: 🎓 known
+  - Imperative programming: 🎓 known
+  - Structured programming: 🎓 known
+  - Non-structured programming: 🎓 known
+  - Functional programming: 🙋 explained
+  - Prototype-based programming: 👂 heard
+  - Object-oriented programming: 🔬 researched
+  - Object-based programming: 🙋 explained
+  - Generic programming: 🎓 known
+  - Concurrent computing: 🎓 known
+  - Asynchronous programming: 🎓 known
+  - Parallel programming: 👂 heard
+  - Reactive programming: 👂 heard
+  - Functional-reactive (FRP): 👂 heard
+  - Automata-based programming: 👂 heard
+  - Domain-specific languages: 🎓 known
+  - Multi-paradigm programming: 🖐️ used
+  - Metaprogramming: 👂 heard
+  - Actor model: 🎓 known
+  - Lambda calculus:
+  - Black box:
+  - Information hiding:
+  - Aspect-oriented programming:
+  - Anemic domain model:
+  - Class composition:
 - OOP basics
-  - Constructor
-  - Operator `new`
-  - Static method
-  - Method
-  - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism
-  - Abstract class
-  - Interface
-  - Encapsulation
-  - Hidden class
-  - Object form
-  - Instance
-  - Introspection
-  - Reflection
-  - The diamond problem
+  - Constructor: 🙋 explained
+  - Operator new: 🙋 explained
+  - Static method: 🙋 explained
+  - Method: 🙋 explained
+  - Async method: 🙋 explained
+  - Getters, Setters: 🙋 explained
+  - Public fields: 🙋 explained
+  - Private fields: 🙋 explained
+  - Field declarations: 🙋 explained
+  - Inheritance: 🙋 explained
+  - Parent class: 🙋 explained
+  - Polymorphism: 🙋 explained
+  - Abstract class: 🙋 explained
+  - Interface: 🙋 explained
+  - Encapsulation: 🙋 explained
+  - Hidden class: 🙋 explained
+  - Object form: 🙋 explained
+  - Instance: 🙋 explained
+  - Introspection: 🎓 known
+  - Reflection: 🎓 known
+  - The diamond problem:
 - GRASP
-  - Information expert
-  - Creator
-  - Controller
-  - Indirection
-  - Low coupling
-  - High cohesion
-  - Protected variations
-  - Pure fabrication
+  - Information expert:
+  - Creator:
+  - Controller:
+  - Indirection:
+  - Low coupling:
+  - High cohesion:
+  - Protected variations:
+  - Pure fabrication:
 - SOLID
-  - Single-responsibility principle (SRP)
-  - Open–closed principle (OCP)
-  - Liskov substitution principle (LSP)
-  - Interface segregation principle (ISP)
-  - Dependency inversion principle (DIP)
+  - Single-responsibility principle (SRP): 🖐️ used
+  - Open–closed principle (OCP): 🖐️ used
+  - Liskov substitution principle (LSP):
+  - Interface segregation principle (ISP):
+  - Dependency inversion principle (DIP):
 - Patterns
-  - Singleton
-  - Factory Method
-  - Abstract Factory
-  - Adapter
-  - Observer
-  - Strategy
-  - Facade
-  - Proxy
-  - Chain of Responsibility
-  - Command
-  - Iterator
-  - State
-  - Bridge
-  - Builder
-  - Prototype
-  - Composite
-  - Decorator
-  - Flyweight
-  - Mediator
-  - Memento
-  - Template Method
-  - Visitor
-  - Reactor
-  - Active object
-  - Delegation
+  - Singleton: 🙋 explained
+  - Factory Method: 🎓 known
+  - Abstract Factory: 🎓 known
+  - Adapter: 👂 heard
+  - Observer: 👂 heard
+  - Strategy:
+  - Facade:
+  - Proxy: 🖐️ used
+  - Chain of Responsibility: 🎓 known
+  - Command: 🎓 known
+  - Iterator: 🖐️ used
+  - State: 🙋 explained
+  - Bridge:
+  - Builder:
+  - Prototype: 🖐️ used
+  - Composite:
+  - Decorator: 👂 heard
+  - Flyweight:
+  - Mediator:
+  - Memento:
+  - Template Method: 🎓 known
+  - Visitor:
+  - Reactor:
+  - Active object:
+  - Delegation:
