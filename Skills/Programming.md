@@ -5,10 +5,10 @@
   - identifier: 🙋 explained
   - variable: 🙋 explained
   - constant: 🙋 explained
-  - scalar: 👂 heard 
+  - scalar: 🎓 known
   - literal: 🙋 explained
   - expression: 🙋 explained
-  - heap: 👂 heard
+  - heap: 🎓 known
   - function: 🙋 explained
   - procedure: 🙋 explained
   - method: 🙋 explained
@@ -24,11 +24,11 @@
   - conditions: 🙋 explained
   - loops: 🙋 explained
   - assignment: 🙋 explained
-  - regular expression: 🎓 known
-  - interface: 👂 heard
-  - contract: 👂 heard
-  - module: 🎓 known
-  - call stack: 🎓 known
+  - regular expression: 🖐️ used
+  - interface: 🖐️ used
+  - contract: 🎓 known
+  - module: 🖐️ used
+  - call stack: 🖐️ used
 - Functions:
   - signature: 🙋 explained
   - argument: 🙋 explained
@@ -36,11 +36,11 @@
   - pure function: 🙋 explained
   - lambda expression: 🙋 explained
   - side effects: 🙋 explained
-  - closure: 🎓 known
+  - closure: 🖐️ used
   - partial application: 👂 heard
-  - curry: 🎓 known
+  - curry: 🖐️ used
   - higher order: 🙋 explained
-  - recursion: 🖐️ used
+  - recursion: 🙋 explained
   - callback: 🙋 explained
   - listener: 🙋 explained
   - compose: 🎓 known
@@ -48,12 +48,12 @@
   - memoize: 🙋 explained
   - wrapper: 🙋 explained
   - functor: 🎓 known
-  - monad: 
-  - monoid: 
+  - monad:
+  - monoid:
   - generator: 🎓 known
-  - coroutine: 
+  - coroutine:
 - Data structures:
-  - array: 🙋 explained
+  - array: 🚀 constructed
   - structure: 🙋 explained
   - record: 🙋 explained
   - enum: 👂 heard
@@ -61,34 +61,34 @@
   - object: 🙋 explained
   - class: 🙋 explained
   - collection: 🙋 explained
-  - set: 🎓 known
-  - hash table: 🎓 known
+  - set: 🙋 explained
+  - hash table: 🙋 explained
   - linked list: 🙋 explained
   - doubly list: 🙋 explained
-  - unrolled list: 👂 heard
-  - circular list: 👂 heard
+  - unrolled list: 🎓 known
+  - circular list: 🎓 known
   - queue: 🎓 known
   - stack: 🎓 known
   - deque: 🎓 known
   - tree: 🎓 known
   - graph: 🎓 known
-  - iterator: 🎓 known
-  - mutable state: 🎓 known
-  - immutable state: 🎓 known
+  - iterator: 🙋 explained
+  - mutable state: 🙋 explained
+  - immutable state: 🙋 explained
   - serialization: 🙋 explained
-  - string parsing: 🎓 known
+  - string parsing: 🙋 explained
 - Process & style:
   - compiler: 🙋 explained
-  - transpiler: 👂 heard
-  - linter: 🎓 known
-  - polyfill: 👂 heard
-  - debugger: 🎓 known
+  - transpiler: 🎓 known
+  - linter: 🖐️ used
+  - polyfill: 🎓 known
+  - debugger: 🖐️ used
   - garbage collection: 🎓 known
   - refactoring: 🙋 explained
   - code review: 🙋 explained
   - antipatterns: 🙋 explained
   - paradigm: 🙋 explained
-  - algorithm: 🎓 known
+  - algorithm: 🙋 explained
   - magic numbers: 🙋 explained
   - hardcode: 🙋 explained
   - complexity: 🙋 explained
@@ -99,8 +99,8 @@
   - dead code: 🙋 explained
   - unreachable code: 🙋 explained
   - duplicate code: 🙋 explained
-  - exception: 🎓 known
-  - return early:  🎓 known
-  - unittest: 🎓 known
+  - exception: 🙋 explained
+  - return early:  🙋 explained
+  - unittest: 🙋 explained
   - git: 🙋 explained
   - github: 🙋 explained

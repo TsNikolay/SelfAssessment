@@ -4,28 +4,28 @@
   - Object: 🖐️ used
   - this: 🙋 explained
   - arrow function: 🙋 explained
-  - async function: 🎓 known
-  - call: 🎓 known
-  - bind: 🎓 known
-  - apply: 🎓 known
-  - instanceof: 🖐️ used
+  - async function: 🖐️ used
+  - call: 🖐️ used
+  - bind: 🖐️ used
+  - apply: 🖐️ used
+  - instanceof: 🙋 explained
   - ...spread: 🖐️ used
   - ...rest: 🖐️ used
-  - typeof: 🖐️ used
-  - destructuring: 🖐️ used
-  - generator: 🎓 known
+  - typeof: 🙋 explained
+  - destructuring: 🙋 explained
+  - generator: 🖐️ used
   - iterator: 🖐️ used
   - async generator: 🎓 known
   - async iterator: 🎓 known
   - chaining: 🖐️ used
   - optional chaining: 👂 heard
   - IIFE: 👂 heard
-  - global: 👂 heard
-  - globalThis: 👂 heard
-  - window: 🎓 known
-  - getters and setters: 🖐️ used
-  - __proto__: 🎓 known
-  - prototype: 🎓 known
+  - global: 🖐️ used
+  - globalThis: 🖐️ used
+  - window: 🖐️ used
+  - getters and setters: 🙋 explained
+  - proto: 🖐️ used
+  - prototype: 🖐️ used
   - equality operators: 🙋 explained
   - logical operators: 🙋 explained
   - bitwise operators: 🙋 explained
@@ -34,7 +34,7 @@
   - yield: 🎓 known
   - await: 🎓 known
   - template literal: 🙋 explained
-  - strict mode: 🎓 known
+  - strict mode: 🖐️ used
   - delete: 👂 heard
   - in: 👂 heard
   - super: 🎓 known
@@ -47,14 +47,14 @@
   - for: 🙋 explained
   - for..in: 🙋 explained
   - for..of: 🙋 explained
-  - for await: 🎓 known
-  - throw: 🎓 known
-  - break: 🎓 known
-  - continue: 🎓 known
-  - import: 🖐️ used
-  - export: 🖐️ used
+  - for await: 🙋 explained
+  - throw: 🙋 explained
+  - break: 🙋 explained
+  - continue: 🙋 explained
+  - import: 🙋 explained
+  - export: 🙋 explained
   - label: 👂 heard
-  - try..catch: 🎓 known
+  - try..catch: 🙋 explained
   - switch: 🙋 explained
   - class: 🙋 explained
   - new Error: 🖐️ used
@@ -70,16 +70,16 @@
   - mixin: 👂 heard
   - extend: 🎓 known
   - typed arrays: 👂 heard
-  - Map: 🎓 known
-  - Set: 🎓 known
-  - undefined: 🎓 known
-  - null: 🎓 known
-  - Proxy: 🎓 known
+  - Map: 🙋 explained
+  - Set: 🙋 explained
+  - undefined: 🙋 explained
+  - null: 🙋 explained
+  - Proxy: 🖐️ used
   - weak collections: 👂 heard
   - timers: 🖐️ used
   - EventEmitter: 🖐️ used
-  - RegExp: 🎓 known
-  - Date: 🎓 known
+  - RegExp: 🖐️ used
+  - Date: 🖐️ used
   - BigInt: 🎓 known
 - Infrastructure
   - V8: 🖐️ used
@@ -87,3 +87,4 @@
   - npm: 🖐️ used
   - prettier: 🖐️ used
   - MDN: 🖐️ used
+

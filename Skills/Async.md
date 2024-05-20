@@ -2,32 +2,32 @@
 
 - Theory
   - Event loop: 🖐️ used
-  - try..catch: 🖐️ used
+  - try..catch: 🙋 explained
   - Non-blocking: 🎓 known
-  - Async I/O: 👂 heard
-  - Thread pool: 👂 heard
-  - Pattern Reactor: 👂 heard
-  - CAS operations:
+  - Async I/O: 🎓 known
+  - Thread pool: 🎓 known
+  - Pattern Reactor: 🎓 known
+  - CAS operations: 👂 heard
   - epoll:
   - kqueue:
   - Completion ports:
   - Event ports:
   - libuv:
-  - Race conditions: 👂 heard
-  - Dead locks: 👂 heard
+  - Race conditions: 🎓 known
+  - Dead locks: 🎓 known
   - Live locks: 👂 heard
   - Concurrent programming: 👂 heard
-  - Parallel programming: 
+  - Parallel programming:
   - Actor Model:
   - Thread:
   - Process: 🎓 known
-- Async contracts
+  - Async contracts
   - Callbacks: 🖐️ used
-  - Callback-last-error-first: 👂 heard
-  - Thenable: 👂 heard
-  - Promise: 🎓 known
-  - Async/await: 🎓 known
-  - Future: 👂 heard
+  - Callback-last-error-first: 🎓 known
+  - Thenable: 🎓 known
+  - Promise: 🖐️ used
+  - Async/await: 🖐️ used
+  - Future: 🎓 known
   - Deferred: 🎓 known
   - Sync generator: 🎓 known
   - Async Generator: 👂 heard
@@ -38,19 +38,19 @@
   - Signal: 👂 heard
   - Stream: 👂 heard
   - Chain of responsibility: 🎓 known
-  - Middleware: 🎓 known
+  - Middleware: 🖐️ used
   - Locks: 👂 heard
-- Async adapters and utils
+  - Async adapters and utils
   - callbackify: 👂 heard
-  - promisify: 👂 heard  
+  - promisify: 👂 heard
   - asyncify: 👂 heard
   - callbacks compose:  🎓 known
   - async compose: 🎓 known
-- Async abstractions interfaces
-  - EventEmitter: 🎓 known
+  - Async abstractions interfaces
+  - EventEmitter: 🖐️ used
   - Observable/Observer: 🎓 known
-  - Readable: 🎓 known
-  - Writable: 🎓 known
+  - Readable: 🙋 explained
+  - Writable: 🙋 explained
   - Transform: 🎓 known
   - Async Pool: 👂 heard
   - Async Queue: 👂 heard
@@ -84,10 +84,10 @@
   - async.js library: 🎓 known
   - RxJS library: 👂 heard
   - Async composition: 🎓 known
-  - Promise.all: 🎓 known
-  - Promise.allSettled: 🎓 known
-  - Promise.race: 🎓 known
-  - Promise.any: 🎓 known
+  - Promise.all: 🖐️ used
+  - Promise.allSettled: 🖐️ used
+  - Promise.race: 🖐️ used
+  - Promise.any: 🖐️ used
   - Web Locks API: 👂 heard
   - IPC:
   - Channel API:
